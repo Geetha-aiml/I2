@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 sarayu
 bec
+=======
+hello
+devops lab
+>>>>>>> fb
